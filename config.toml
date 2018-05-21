@@ -1,6 +1,6 @@
 baseURL = "/"
-languageCode = "zh-CN"
-defaultContentLanguage = "zh-CN"                             # en / zh-cn / ... (This field determines which i18n file to use)
+languageCode = "en"
+defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Origin Matrix Blog"
 enableRobotsTXT = true
 enableEmoji = true
