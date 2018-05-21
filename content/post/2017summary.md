@@ -9,31 +9,6 @@ tags: [“流水账”]
 categories: [“清单”]
 author: "Jim"
 
-# You can also close(false) or open(true) something for this content.
-# P.S. comment can only be closed
-comment: false
-toc: false
-autoCollapseToc: false
-postMetaInFooter: false
-hiddenFromHomePage: false
-# You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
-contentCopyright: false
-reward: false
-mathjax: false
-mathjaxEnableSingleDollar: false
-mathjaxEnableAutoNumber: false
-
-# You unlisted posts you might want not want the header or footer to show
-hideHeaderAndFooter: false
-
-flowchartDiagrams:
-  enable: false
-  options: ""
-
-sequenceDiagrams: 
-  enable: false
-  options: ""
-
 ---
 
 2017年一共看了46本书，30部电影，22季剧集。我始终认为“存在即合理”，所以我并不从理性的角度去评价它们绝对的好坏。在2017年的最后一天，我仅站在我个人的认知、喜好、能力水平上，将这一年看过的书，电影和剧打上一个标签来纪念我的2017。
