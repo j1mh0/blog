@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://jimho.netlify.com/* https://jimho.xyz/:splat 301!
