@@ -5,8 +5,8 @@ lastmod: 2018-11-09T11:50:00+08:00
 draft: false
 keywords: [“纪念”,"大熊"]
 description: "纪念大熊"
-tags: [“随想”]
-categories: [“杂项”]
+tags: ["随想"]
+categories: ["杂项"]
 author: "Jim"
 
 hiddenFromHomePage: false
