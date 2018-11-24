@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>随想 on Jim&#39;s Blog</title>
+    <link>/tags/%E9%9A%8F%E6%83%B3/</link>
+    <description>Recent content in 随想 on Jim&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Nov 2018 11:50:00 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/%E9%9A%8F%E6%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>纪念大熊</title>
+      <link>/post/daxiong/</link>
+      <pubDate>Fri, 09 Nov 2018 11:50:00 +0800</pubDate>
+      
+      <guid>/post/daxiong/</guid>
+      <description>自己很懒，除了记录些流水账之外，基本不写什么东西。今天是个例外。 今天，我去送别大熊兄弟。在此之前，经常能在网络上看到年轻人猝死的新闻，不过总</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>/post/welcome/</link>
+      <pubDate>Mon, 21 May 2018 10:57:59 +0800</pubDate>
+      
+      <guid>/post/welcome/</guid>
+      <description>欢迎 刚刚把这个Blog折腾好，暂时还没有想到要写什么，姑且先占个坑吧。最近一直在折腾一些东西：VPS啦，域名啦，SSL证书啦，邮箱认证啦，其</description>
+    </item>
+    
+  </channel>
+</rss>

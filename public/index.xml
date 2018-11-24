@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jim&#39;s Blog</title>
+    <link>/</link>
+    <description>Recent content on Jim&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Nov 2018 11:50:00 +0800</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>纪念大熊</title>
+      <link>/post/daxiong/</link>
+      <pubDate>Fri, 09 Nov 2018 11:50:00 +0800</pubDate>
+      
+      <guid>/post/daxiong/</guid>
+      <description>自己很懒，除了记录些流水账之外，基本不写什么东西。今天是个例外。 今天，我去送别大熊兄弟。在此之前，经常能在网络上看到年轻人猝死的新闻，不过总</description>
+    </item>
+    
+    <item>
+      <title>2018学习娱乐清单</title>
+      <link>/post/2018list/</link>
+      <pubDate>Mon, 01 Jan 2018 13:52:02 +0800</pubDate>
+      
+      <guid>/post/2018list/</guid>
+      <description>书籍 科学 七天搞定微积分（2018/1/20） 费马大定理（2018/4/5） 码书（2018/7/28） 生命3.0（2018/10/5） 五角大楼</description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hugo is a static site engine written in Go. It makes use of a variety of open source projects including: Cobra Viper J Walter Weatherman Cast Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>楚门的世界</title>
+      <link>/post/thetrumanshow/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/thetrumanshow/</guid>
+      <description>楚门的世界 我们生活在楚门的世界里吗？</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>/post/welcome/</link>
+      <pubDate>Mon, 21 May 2018 10:57:59 +0800</pubDate>
+      
+      <guid>/post/welcome/</guid>
+      <description>欢迎 刚刚把这个Blog折腾好，暂时还没有想到要写什么，姑且先占个坑吧。最近一直在折腾一些东西：VPS啦，域名啦，SSL证书啦，邮箱认证啦，其</description>
+    </item>
+    
+    <item>
+      <title>2017学习娱乐总结</title>
+      <link>/post/2017summary/</link>
+      <pubDate>Sun, 31 Dec 2017 13:51:48 +0800</pubDate>
+      
+      <guid>/post/2017summary/</guid>
+      <description>2017年一共看了46本书，30部电影，22季剧集。我始终认为“存在即合理”，所以我并不从理性的角度去评价它们绝对的好坏。在2017年的最后</description>
+    </item>
+    
+    <item>
+      <title>2017学习娱乐清单</title>
+      <link>/post/2017list/</link>
+      <pubDate>Sun, 01 Jan 2017 13:50:18 +0800</pubDate>
+      
+      <guid>/post/2017list/</guid>
+      <description>书籍 科学 极简宇宙史 暗黑医疗史 认识飞行 未来简史 肠子的小心思 给孩子讲量子力学（2017/5/20） 你的第一本哲学书（2017/11/4） 小说 鬼吹</description>
+    </item>
+    
+  </channel>
+</rss>

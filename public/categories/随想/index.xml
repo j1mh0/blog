@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>“随想” on Jim&#39;s Blog</title>
+    <link>/categories/%E9%9A%8F%E6%83%B3/</link>
+    <description>Recent content in “随想” on Jim&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/%E9%9A%8F%E6%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>楚门的世界</title>
+      <link>/post/thetrumanshow/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/thetrumanshow/</guid>
+      <description>楚门的世界 我们生活在楚门的世界里吗？</description>
+    </item>
+    
+  </channel>
+</rss>

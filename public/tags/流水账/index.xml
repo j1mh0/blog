@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>“流水账” on Jim&#39;s Blog</title>
+    <link>/tags/%E6%B5%81%E6%B0%B4%E8%B4%A6/</link>
+    <description>Recent content in “流水账” on Jim&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2018 13:52:02 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/%E6%B5%81%E6%B0%B4%E8%B4%A6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2018学习娱乐清单</title>
+      <link>/post/2018list/</link>
+      <pubDate>Mon, 01 Jan 2018 13:52:02 +0800</pubDate>
+      
+      <guid>/post/2018list/</guid>
+      <description>书籍 科学 七天搞定微积分（2018/1/20） 费马大定理（2018/4/5） 码书（2018/7/28） 生命3.0（2018/10/5） 五角大楼</description>
+    </item>
+    
+    <item>
+      <title>2017学习娱乐总结</title>
+      <link>/post/2017summary/</link>
+      <pubDate>Sun, 31 Dec 2017 13:51:48 +0800</pubDate>
+      
+      <guid>/post/2017summary/</guid>
+      <description>2017年一共看了46本书，30部电影，22季剧集。我始终认为“存在即合理”，所以我并不从理性的角度去评价它们绝对的好坏。在2017年的最后</description>
+    </item>
+    
+    <item>
+      <title>2017学习娱乐清单</title>
+      <link>/post/2017list/</link>
+      <pubDate>Sun, 01 Jan 2017 13:50:18 +0800</pubDate>
+      
+      <guid>/post/2017list/</guid>
+      <description>书籍 科学 极简宇宙史 暗黑医疗史 认识飞行 未来简史 肠子的小心思 给孩子讲量子力学（2017/5/20） 你的第一本哲学书（2017/11/4） 小说 鬼吹</description>
+    </item>
+    
+  </channel>
+</rss>
