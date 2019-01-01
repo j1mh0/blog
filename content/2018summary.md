@@ -8,32 +8,6 @@ description: "2018学习娱乐总结"
 tags: [“流水账”]
 categories: [“清单”]
 author: "Jim"
-
-# You can also close(false) or open(true) something for this content.
-# P.S. comment can only be closed
-comment: false
-toc: true
-autoCollapseToc: false
-postMetaInFooter: true
-hiddenFromHomePage: false
-# You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
-contentCopyright: false
-reward: false
-mathjax: false
-mathjaxEnableSingleDollar: false
-mathjaxEnableAutoNumber: false
-
-# You unlisted posts you might want not want the header or footer to show
-hideHeaderAndFooter: false
-
-flowchartDiagrams:
-  enable: true
-  options: ""
-
-sequenceDiagrams: 
-  enable: true
-  options: ""
-
 ---
 
 按照惯例（其实也就才两年），年底来总结下2018年看过的书、剧和电影，顺便推荐下值得看的，当然是以我的“恶趣味”为标准。
